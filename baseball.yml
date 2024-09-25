@@ -1,0 +1,10 @@
+name: baseball_analytics
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - requests
+  - beautifulsoup4
+  - pip
